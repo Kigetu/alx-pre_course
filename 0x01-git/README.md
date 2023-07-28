@@ -1,2 +1,1 @@
-readme for 0x01-git
-my readme is upto date now
+My Readme is up to date
